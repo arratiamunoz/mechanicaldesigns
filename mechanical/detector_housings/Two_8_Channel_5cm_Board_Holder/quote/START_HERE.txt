@@ -1,0 +1,83 @@
+REQUEST FOR QUOTE
+Two 8-channel 5 cm board holder | Rev 02 | mechanical scope only
+
+Please quote 1 complete prototype and an optional lot of 3 identical sets,
+delivered to El Segundo, CA 90245, USA. Quote in USD. Break out material, part
+fabrication, fixture/setup, any assembly or joining, finish, lead time, shipping
+and applicable taxes. If machining-only is lower cost, quote the parts kit
+separately from joining and assembly. Please state assumptions about quantities,
+standard stock, lead time, processes and commercially purchased parts.
+
+PARTS
+See PARTS_AND_BOM.csv for per-set quantities and materials and STEP/ for one
+solid per unique part. Drawing RFQ_Interfaces.png/.svg defines the common
+assembly reference and supplementary dimensions. Dimensions are millimeters.
+Treat the attached inputs as RFQ geometry, not a fabrication release. The
+customer approves the pre-fabrication mechanical drawing after reviewing the
+proposed joint, hardware and tolerances. No circuit boards or electrical
+assemblies are in supplier scope.
+
+01 — Supply a standard 24 in (609.60 mm nominal) uncut 6061-T6 extruded round
+tube, 4 in OD × 0.125 in (3.175 mm) wall. Do not saw or fabricate a substitute.
+Deburr stock edges and add the end drilling only: 4 radial through holes
+Ø4.50 at each end, equally spaced at 90 degrees, 7.00 from the respective
+stock end. Locate the sleeve holes by a matched transfer fixture (same clock
+at both ends). Verify a minimum clear bore Ø93.50 mm throughout the slide
+path, including extrusion ovality and straightness. State actual nominal
+stock length tolerance. Nominal bore Ø95.25. Quote cut-free drilling and
+stock supply as line items; advise if buyer-supplied stock is preferable.
+
+02–05 — Machine the 3.175 mm aluminum front patch cap and 6 mm blind cap.
+Keep front panel within 2.00–4.00 mm after finishing. Front cap: 4 × Ø24.20
+round apertures on 32.00 × 36.00 pitch; two Ø3.30 diagonal mount holes per
+port, delta 19.00 × 24.00, reviewed against the vendor drawing before cutting.
+Port model basis is Neutrik NE8FDP-B-TOP; couplers, seals and accessories to
+be furnished by customer unless explicitly quoted as optional separate line.
+The caps have 6 Ø3.40 axial sleeve clearances, both sleeves have 6 threaded
+M3 × 0.5 axial holes. 4 M4 × 0.7 radial holes per collar align with tube
+clearances; pilot holes are shown in STEP, no modeled threads. Quote taps
+through collars with screw tips flush or below the interior sleeve surface.
+Preserve the front collar's connector mounting screw reliefs. Face plate
+gasket provision quoted separately; no seal performance or pressure rating.
+Optional laser marking on the front plate: CAEN ONLY / NOT LAN OR PoE.
+
+06–10 — Straight rail carrier. 2 metal flat rails, 495 × 45 × 2.5 mm, not
+long-axis milled or curved. 2 each fixed and slotted ties and 6 plain support
+ties, 50.70 mm nominal between rails at 53.20 mm center spacing. Tie STEP
+ends are butt-fit to the rail inner faces; joints and fixture quoted as
+separate work. Prefer simple flanged end clips or low-profile clamp tabs;
+alternate jig tack-weld and recheck straightness after cooling. Keep all
+added hardware within the Ø91.00 carrier envelope and clear of locator/support
+faces. Keep two sets of mounting projections separated vertically 37.00.
+Use a fixed round locator on one end and the 3.60 × 8.60 slot on the other.
+Provide 2 replaceable insulating POM guide rings with the original rail
+slots. Quote CNC POM first; if proposing SLS nylon, provide matching fit
+surfaces and cost and keep printed material out of the tapped metal joints.
+
+11–17 — Pull bridge, stop bar and insulating guide/support kit. Quote the
+pull-bridge stock blanks plus a practical captive mechanical bridge attachment
+to front sleeve and both rails/inboard bracket (positive retention, release
+hardware accessible with front assembly withdrawn). Do not use the cables or
+their saddle as extraction members. Bridge CAD ends indicate installation
+space; vendor to propose recessed bolts or a separate compact angle bracket,
+not a weld to POM. Quote chassis parts kit without these small joining
+details as an alternative. Finish the rear stop to 14.00 assembled span
+including captured 1.80 mm insulating contact tip; fit by shim after a stock
+length measurement. Quote cable saddle leaves in POM with two matched pairs.
+Include optional compliant grip insert for Ø6 jackets; do not trap connectors,
+fasteners or wiring. Standard nonconductive standoffs/pads can substitute for
+made-to-print items 16–17 if their envelope and thickness match.
+
+FIT & FINISH
+Deburr, break edges and remove all chips. As-machined finish for first
+article. Report optional clear anodizing separately; mask fit lands or
+account for resulting thickness. Non-critical linear dimensions ±0.25 mm.
+Locate mount center dimensions ±0.15 mm from datum; 37.00 plane separation
+±0.25 mm. Use current STEP dimensions for individual part envelopes. Guide/
+collar OD tolerance +0.00/−0.15 mm; ensure carrier straightness ≤0.60 mm
+over 495 mm. Critical interference check: received tube Ø93.50 min clear
+bore; Ø91.00 guide and Ø92.50 mating collar. Do not quote pressure, sealing,
+shock, structural or environmental certification. State finishing, secondary
+operations, per-feature tolerance exceptions and part packaging separately.
+
+No substitutions or production tooling without reviewing the first article.

@@ -1,0 +1,18 @@
+ID,Part,Quantity per assembly,Material,Quote process,X bbox mm,Y bbox mm,Z bbox mm
+01,Stock tube drilled,1,6061-T6 aluminum,"Purchase 24 in stock, no tube shortening; 8 axial-station radial through holes",609.6,101.6,101.6
+02,Four port front plate,1,6061-T6 aluminum,Mill or waterjet and finish drill; leave flat gasket face,3.175,101.6,101.6
+03,Blind end plate,1,6061-T6 aluminum,Waterjet or CNC; leave flat gasket face,6.0,101.6,101.6
+04,Removable front collar,1,6061-T6 aluminum,"Turn, drill/tap 6 × M3 axial and 4 × M4 radial; cross drill; no modeled helices",12.0,92.5,92.5
+05,Blind end collar,1,6061-T6 aluminum,"Turn, drill/tap 6 × M3 axial and 4 × M4 radial; cross drill; no modeled helices",12.0,92.5,92.5
+06,Carrier guide ring,2,Acetal (POM),CNC route/turn and slot; PETG or SLS nylon alternate if fit is demonstrated,7.0,91.0,91.0
+07,Stock flat longitudinal rail,2,6061-T6 aluminum,Stock flat strip 495 x 45 x 2.5 mm,495.0,2.5,45.0
+08,Fixed datum cross tie,2,6061-T6 aluminum,"Flat machined tie, butt fit to rails; propose simple nonprotruding joined chassis",12.0,50.7,3.0
+09,Floating slot cross tie,2,6061-T6 aluminum,"Flat machined tie, butt fit to rails; propose simple nonprotruding joined chassis",12.0,50.7,3.0
+10,Plain support cross tie,6,6061-T6 aluminum,"Flat machined tie, butt fit to rails; propose simple nonprotruding joined chassis",7.0,50.7,3.0
+11,Pull bridge blank,2,6061-T6 aluminum,Quote bridge blank separately; positive attachment designed by supplier proposal,84.6,8.0,3.0
+12,Rear stop bar,2,6061-T6 aluminum,Saw flat bar; blank to captivate insulating tip,12.2,8.0,3.0
+13,Rear stop insulating tip,2,Acetal (POM),Captured or mechanically bonded to stop bar,1.8,8.0,3.0
+14,Tall split saddle leaf,2,Acetal (POM),Route 3 mm plate; allow rear relief and compliant cable grip insert,3.0,48.0,26.4
+15,Short split saddle leaf,2,Acetal (POM),Route 3 mm plate; allow compliant cable grip insert,3.0,48.0,5.9
+16,Isolating spacer,4,Acetal (POM),Stock dielectric spacer acceptable; no metal touching protected surface,7.0,7.0,4.0
+17,Isolating support pad,12,Acetal (POM),Thin dielectric deck support pad or stock substitute; verify thickness,7.0,5.0,4.0

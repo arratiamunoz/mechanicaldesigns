@@ -1,0 +1,71 @@
+{
+  "specification": {
+    "tube_od": 101.6,
+    "tube_wall": 3.175,
+    "tube_l": 609.6,
+    "tube_accept_min_id": 93.5,
+    "board_l": 443.0,
+    "board_w": 49.1,
+    "board_t": 1.6,
+    "board_front": 122.6,
+    "front_shift": 54.6,
+    "cap_t": 3.175,
+    "upper_board_top": 10.0,
+    "lower_board_top": -27.0,
+    "tile_mech_w": 48.8,
+    "tile_mech_l": 48.8,
+    "tile_h_allowance": 7.0,
+    "guide_od": 91.0,
+    "guide_id": 82.0,
+    "collar_od": 92.5,
+    "collar_id": 81.0,
+    "jacket_max_d": 6.0,
+    "plug_height_from_pcb": 28.0,
+    "plug_keepout_half_y": 7.0
+  },
+  "stock_extra_rear_length_mm": 54.6,
+  "rear_locator_total_span_mm": 14.0,
+  "board_xy_coincident": true,
+  "plane_top_separation_mm": 37.0,
+  "tube_nominal_id_mm": 95.25,
+  "guide_min_radial_clearance_mm": 1.25,
+  "slide_min_radial_mm": 1.25,
+  "slide_limiting_item": "Service low-friction guide ring",
+  "plug_min_wall_radial_clearance_mm": 2.856,
+  "lower_plug_to_upper_pcb_nominal_clearance_mm": 7.4,
+  "plug_envelope_includes_jack_mm": 28.0,
+  "rail_max_radial_mm": 44.572,
+  "M3_axial_min_collar_ligament_mm": 1.35,
+  "cable_min_ring_radial_clearance_mm": 2.672,
+  "mount_x_y_mm": [
+    [
+      36.2,
+      -18.65
+    ],
+    [
+      438.0,
+      -0.15
+    ]
+  ],
+  "patch_ports_y_z_mm": [
+    [
+      16.0,
+      -18.0
+    ],
+    [
+      -16.0,
+      -18.0
+    ],
+    [
+      16.0,
+      18.0
+    ],
+    [
+      -16.0,
+      18.0
+    ]
+  ],
+  "shell_solid_interference": {},
+  "panel_and_collar_coupler_interference": {},
+  "board_geometry": "Native populated reference used for fit check; excluded from this repository."
+}
